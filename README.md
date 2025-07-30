@@ -9,6 +9,8 @@ This repository implements a deep learning models (CNN, HNN1, HNN2) for classify
 ---
 
 ## Motivating Research
+Deep Learning-Based Computer Vision Framework for Predicting Retroreflectivity of Road Signs https://rosap.ntl.bts.gov/view/dot/83805
+
 Yang Yongxi, Zhang Shibin, Yan Lili, Chang Yan Proceedings of 2024 International Conference on Machine Learning and Intelligent Computing, PMLR 245:271-279, 2024. https://proceedings.mlr.press/v245/yongxi24a.html
 
 W. El Maouaki, A. Marchisio, T. Said, M. Shafique and M. Bennai, "RobQuNNs: A Methodology for Robust Quanvolutional Neural Networks against Adversarial Attacks," 2024 IEEE International Conference on Image Processing Challenges and Workshops (ICIPCW), Abu Dhabi, United Arab Emirates, 2024, pp. 4090-4095, doi: 10.1109/ICIPCW64161.2024.10769105.   http://ieeexplore.ieee.org/abstract/document/10769105
